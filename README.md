@@ -1,5 +1,6 @@
 # Network Intrusion Detection using VAE
-[OBJECTIVE] 
+
+OBJECTIVE: 
 
 This project focuses on building a Variational AutoEncoder (VAE) trained on benign network traffic to detect anomalous behavior.  
 
